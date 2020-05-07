@@ -1,3 +1,7 @@
+
+//question s here 
+//https://www.hackerrank.com/challenges/30-data-types/problem
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
